@@ -3,7 +3,7 @@
   /* Defining each sectino background and styles
   * --------------------------------------- */
   #section0{
-    background-image: url(/assets/img/big/https://www.studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201906270413103950_B.jpg&fileStorePath=univStorePath);
+    background-image: url(https://www.studyinkorea.go.kr/file/imgpreview.do?filename=EI_DATA_FILE201906270413103950_B.jpg&fileStorePath=univStorePath);
     padding: 6% 0 0 0;
   }
 
